@@ -1,4 +1,4 @@
-package com.example.slafuente.tareasrecaderogson.Beans;
+package com.example.slafuente.tareasrecaderogson.beans;
 
 import java.util.Date;
 

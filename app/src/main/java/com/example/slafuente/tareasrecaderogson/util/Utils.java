@@ -1,4 +1,4 @@
-package com.example.slafuente.tareasrecaderogson.Util;
+package com.example.slafuente.tareasrecaderogson.util;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

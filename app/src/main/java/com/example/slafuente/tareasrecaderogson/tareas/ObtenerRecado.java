@@ -1,11 +1,11 @@
-package com.example.slafuente.tareasrecaderogson.Tareas;
+package com.example.slafuente.tareasrecaderogson.tareas;
 
 import android.content.Context;
 import android.os.AsyncTask;
 import android.util.Log;
 
-import com.example.slafuente.tareasrecaderogson.Actividades.MainActivity;
-import com.example.slafuente.tareasrecaderogson.Beans.Recado;
+import com.example.slafuente.tareasrecaderogson.actividades.MainActivity;
+import com.example.slafuente.tareasrecaderogson.beans.Recado;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;

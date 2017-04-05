@@ -1,4 +1,4 @@
-package com.example.slafuente.tareasrecaderogson.Adaptadores;
+package com.example.slafuente.tareasrecaderogson.adaptadores;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
@@ -10,9 +10,9 @@ import android.widget.ArrayAdapter;
 import android.widget.CheckBox;
 import android.widget.TextView;
 
-import com.example.slafuente.tareasrecaderogson.Beans.Recado;
+import com.example.slafuente.tareasrecaderogson.beans.Recado;
 import com.example.slafuente.tareasrecaderogson.R;
-import com.example.slafuente.tareasrecaderogson.Util.Utils;
+import com.example.slafuente.tareasrecaderogson.util.Utils;
 
 import java.util.List;
 

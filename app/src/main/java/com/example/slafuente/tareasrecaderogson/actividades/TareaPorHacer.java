@@ -1,4 +1,4 @@
-package com.example.slafuente.tareasrecaderogson.Actividades;
+package com.example.slafuente.tareasrecaderogson.actividades;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -6,9 +6,9 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.ListView;
 
-import com.example.slafuente.tareasrecaderogson.Beans.Recado;
+import com.example.slafuente.tareasrecaderogson.beans.Recado;
 import com.example.slafuente.tareasrecaderogson.R;
-import com.example.slafuente.tareasrecaderogson.Adaptadores.RecadoAdapter;
+import com.example.slafuente.tareasrecaderogson.adaptadores.RecadoAdapter;
 
 import java.util.ArrayList;
 
